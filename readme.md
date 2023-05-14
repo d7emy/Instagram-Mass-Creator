@@ -15,6 +15,6 @@
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 **this repo works perfectly in 14/May/2023, no guarantees for future**
